@@ -1,0 +1,63 @@
+ 驱动器 D 中的卷是 软件
+ 卷的序列号是 0009-FF50
+
+ D:\study\flightroutes24.github.io\public\pdfs\4sea 的目录
+
+2015/06/15  20:41    <DIR>          .
+2015/06/15  20:41    <DIR>          ..
+2015/06/15  19:25         1,098,381 F1-9W-HKG-CDG-v.v..pdf
+2015/06/15  19:44           252,451 F10 9W HKG-BOM,DEL v.v..pdf
+2015/06/15  19:46         1,345,944 F11 9W HKG-BOM,DEL v.v.(private fare).pdf
+2015/06/15  19:47           647,368 F12 9W HKG-BOM,DEL v.v.(publish fare).pdf
+2015/06/15  19:50           897,252 F13 AA HKG-CANADA.pdf
+2015/06/15  19:53           896,202 F14 AA HKG-南美洲.pdf
+2015/06/15  19:56           422,099 F15 AA HKG-USA.pdf
+2015/04/22  14:28           208,896 F16 AC HKG-加，美，墨，南美.xls
+2015/04/22  14:52           326,144 F17 AF HKG-EUROPE.xls
+2015/06/15  20:10           376,426 F18_BA_HKG-LON_EUR.pdf
+2015/04/09  17:39           177,174 F19 CA+KA HKG-PEK,TSN,DLC,CKG,CTU.pdf
+2015/06/15  17:31           434,143 F2-9W-HKG-LHR-v.v..pdf
+2015/06/15  19:50           181,406 F20_CA_HKG-中国西部，新疆.pdf
+2015/06/15  19:51           215,391 F21_CA+MU_HKG-CHN_OJ_vv.pdf
+2015/06/15  19:52           293,554 F22_CA_HKG-亚太.pdf
+2015/06/15  19:52           207,935 F23_CA_HKG-CHN_Q_class.pdf
+2015/06/15  19:55           178,636 F24_CA_HKG-CHN_V_class.pdf
+2015/06/15  19:55           210,340 F25_CA_HKG-CHN_L_class.pdf
+2015/06/15  19:55           183,833 F26_CA_HK5Q17_HKG-PEK_CTU_CKG_G_class_GV2_01Jul-08Jul15.pdf
+2015/06/11  14:47           162,300 F27 CA HKG-CKG,CTU,TSN,DLC GV fare Jun-Sep15-21(內部使用).pdf
+2015/06/11  14:47           214,354 F28 CA HKG-PEK GV fare Jun-Sep15-22 (內部使用).pdf
+2015/06/15  19:28         1,079,078 F3-9W-HKG-BRU.pdf
+2015/06/15  20:08           181,640 F32_CA_HKG-BUD_MSQ_vv.pdf
+2015/06/09  10:34           237,074 F33 CA HKG-欧美日航 v.v..pdf
+2015/06/15  20:11           237,052 F33_CA_HKG-欧美日航_vv.pdf
+2015/06/15  20:03           202,706 F34_CA_HKG-CMB_vv.pdf
+2015/06/15  20:03           227,651 F35_CA_HKG-欧美加.pdf
+2015/06/15  19:49           401,113 F38 FJ HKG-KDV,SVU,LBS v.v..pdf
+2015/06/15  19:49           382,257 F39 HO HKG,MFM-PVG.pdf
+2015/06/15  19:29         1,015,627 F4 9W HKG-CMB.pdf
+2015/06/15  19:48           220,273 F40 HO HKG-PVG OW.pdf
+2015/06/15  19:48           403,069 F41 JL HKG-USA,CANADA.pdf
+2015/06/15  19:48           409,149 F42 NH HKG-TYO,OSA,NGO v.v..pdf
+2015/06/15  19:48           670,939 F43 QF HKG- AUSTRALIA v.v. premium economy class.pdf
+2015/06/15  19:47         1,011,845 F44 QF HKG-AUSTRALIA v.v. economy class.pdf
+2015/06/15  19:45           585,123 F45 QR HKG-AFRICA.pdf
+2015/06/15  19:43           546,440 F46 QR HKG-USA.pdf
+2015/06/15  19:43           585,176 F47 QR HKG-EUROPE.pdf
+2015/06/15  20:00           403,707 F48_QR_HKG-MIDDLE_EAST.pdf
+2015/06/15  19:37           491,703 F49 QR HKG-EUROPE GV2-4.pdf
+2015/06/15  19:31         1,070,968 F5 9W HKG-DAC,KTM.pdf
+2015/06/15  19:36           488,343 F50 QR HKG-AFRICA GV2-4.pdf
+2015/06/15  19:36           498,334 F51 QR HKG-USA,MLE GV2-4.pdf
+2015/06/15  19:36           475,251 F52 QR HKG-MIDDLE EAST GV2-4.pdf
+2015/06/15  19:35           366,079 F53 UA HKG-美，加，南美.pdf
+2015/06/15  19:34           750,351 F54 UL HKG-MLE v.v..pdf
+2015/06/15  19:33           879,998 F55 UL HKG-CMB v.v..pdf
+2015/06/15  19:33         1,122,478 F6 9W HKG-中东.pdf
+2015/06/15  19:35           528,643 F7 9W HKG-EWR,YYZ.pdf
+2015/06/15  19:38         1,336,557 F8 9W HKG-JNB.pdf
+2015/06/15  19:42         1,339,852 F9 9W HKG-NBO.pdf
+2015/06/15  20:34             3,723 out.txt
+2015/06/15  20:41                 0 out2.txt
+2015/06/11  15:40            12,718 价单目录updating.xlsx
+              54 个文件     27,095,146 字节
+               2 个目录 83,414,106,112 可用字节

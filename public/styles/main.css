@@ -1,0 +1,42 @@
+*
+{
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+/* ----------------------------------- layout ----------------------------------- */
+html 	{ 
+	min-width: 966px;
+	background: #f9f9f9;
+	overflow:scroll;
+	overflow-x:hidden;
+}
+
+body
+{
+	font-size:24px;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background: #f9f9f9 url(../images/holder.gif) top center repeat-y;
+}
+
+div#wrapper
+{
+	margin: 0 auto;
+	padding: 0;
+	border: 0;
+	width: 1129px;
+	text-align: left;
+//	background: transparent url(../images/wrapper.gif) top left repeat-y;
+}
+
+ul {
+	margin: 100px;
+}
+li {
+	margin: 20px;
+}
+a{ text-decoration: none;}
